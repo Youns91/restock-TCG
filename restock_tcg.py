@@ -17,9 +17,9 @@ from datetime import datetime
 #  ⚙️  CONFIGURATION — MODIFIE CES VALEURS AVANT DE LANCER
 # ============================================================
 
-EMAIL_EXPEDITEUR  = "TON_EMAIL@hotmail.com"   # Ton adresse Outlook
-MOT_DE_PASSE      = "TON_MOT_DE_PASSE"        # Ton mot de passe Outlook
-EMAIL_DESTINATAIRE = "TON_EMAIL@hotmail.com"  # Où recevoir les alertes (peut être le même)
+EMAIL_EXPEDITEUR  = "u-nes91@hotmail.fr"   # Ton adresse Outlook
+MOT_DE_PASSE      = "Mangas12394."        # Ton mot de passe Outlook
+EMAIL_DESTINATAIRE = "u-nes91@hotmail.fr"  # Où recevoir les alertes (peut être le même)
 
 INTERVALLE_SECONDES = 300  # Vérification toutes les 5 minutes (300 secondes)
 
