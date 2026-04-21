@@ -18,7 +18,7 @@ from datetime import datetime
 # ============================================================
 
 # -- Telegram --
-TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "8681719781:AAHHkjpMv7jRBTZ4gFnZknYc_CN0GqM_9H8")
+TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "8681719781:AAF5BKRAiWBDxMPcH3HZ7AY-nynq7rE_79Y")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "8681719781")
 
 # -- Email Outlook (optionnel en plus du Telegram) --
